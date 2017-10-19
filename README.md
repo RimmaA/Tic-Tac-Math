@@ -1,4 +1,4 @@
-# Tic-Tac-Math
+﻿# Tic-Tac-Math
 This program implements Tic-Tac-Math game.
 
                                             RULES:
