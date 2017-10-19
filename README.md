@@ -1,7 +1,7 @@
 ﻿# Tic-Tac-Math
 This program implements Tic-Tac-Math game.
 
-                                            RULES:
+RULES:
 
 This is a two-player game. Each player has a field which is a one-dimensional array.
  
