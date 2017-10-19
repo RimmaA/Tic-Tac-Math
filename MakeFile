@@ -1,0 +1,11 @@
+game: main.o field.o carrots.o
+	g++ -Wall main.o field.o carrots.o -o game
+main.o: main.cc field.h carrots.h
+	g++ -Wall -c main.cc
+field.o: field.cc field.h
+	g++ -Wall -c field.cc
+carrots.o: carrots.cc carrots.h
+	g++ -Wall -c carrots.cc
+.PHONY: clean
+clean:
+	-rm *.o game
