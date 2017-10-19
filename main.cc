@@ -8,7 +8,7 @@ int main(){
     int rabbit;                 // the player's sequence
     int cell;                   // position which rabbit chooses to eat
     char ans;                   // identifies random or regular place of beds
-    cout << "Rimma Akhmetova. The smart rabbits." << endl << endl;
+    cout << "Rimma Niyazova. The smart rabbits." << endl << endl;
     //asks to choose the beds placing method. If the player will enter 'Y' or
     //'y'. The program will call randomInput() function otherwise it will call
     //manual input function input()
